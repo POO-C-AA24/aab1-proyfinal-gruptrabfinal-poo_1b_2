@@ -1,0 +1,14 @@
+Sueldos Mensuales:
+ - 1500.0
+Sueldo Anual: 18000.0
+Facturas:
+Categoria: Factura_Vivienda, Monto: 200.0, Fecha: 2024-01-15, Monto Maximo Deducible: 20.0
+Categoria: Factura_Educación, Monto: 1500.0, Fecha: 2024-02-15, Monto Maximo Deducible: 800.0
+Categoria: Factura_Alimentación, Monto: 200.0, Fecha: 2024-03-15, Monto Maximo Deducible: 20.0
+Categoria: Factura_Vestimenta, Monto: 100.0, Fecha: 2024-04-15, Monto Maximo Deducible: 100.0
+Categoria: Factura_Salud, Monto: 150.0, Fecha: 2024-05-15, Monto Maximo Deducible: 30.0
+Categoria: Factura_Turismo, Monto: 500.0, Fecha: 2024-06-15, Monto Maximo Deducible: 100.0
+Declaracion de Impuestos
+Nombre: Jean
+DNI: 1105919664
+Impuestos a pagar: 88.55000000000001
